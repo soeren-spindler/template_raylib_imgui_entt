@@ -1,9 +1,9 @@
 {	
-	"name": "template_raylib_imgui_entt",
+	"name": "template-raylib-imgui-entt",
 	"version-string": "0.0.1",
 	"license": "MIT",
 	"dependencies": [
-		"raylib"
+		"raylib",
 		"spdlog"
 	],
 	"overrides": [
